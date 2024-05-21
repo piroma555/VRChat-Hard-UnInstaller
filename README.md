@@ -1,0 +1,2 @@
+# VRChat-Hard-UnInstaller
+EACでエラー吐かれたりして起動できなくなったVRChatを直す感じのヤツ
